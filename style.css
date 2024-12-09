@@ -1,0 +1,19 @@
+.action {
+  margin-left: 0.5em;
+}
+
+th {
+  font-size: 1.25rem;
+  border: 1px solid;
+}
+
+table {
+  border: 1px solid;
+  margin: 1.5em auto auto;
+}
+
+td {
+  text-align: center;
+  padding: 1em 1em;
+  border: 1px solid;
+}
